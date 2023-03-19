@@ -14,7 +14,7 @@
 
 ## Pull Requets process, Continues Integration and Continues Delivery
 
-![Ruchitha Patha|150x150](Documentation/Images/Git.png)
+![Ruchitha Patha|150x150](Documentation/Images/PR-CI-CD.png)
 
 ## Double Linked List 
 

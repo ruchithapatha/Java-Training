@@ -14,14 +14,21 @@
 
 ## Pull Requets process, Continues Integration and Continues Delivery
 
-![Ruchitha Patha|150x150](Documentation/Images/PR-CI-CD.png)
+
+
+![Ruchitha Patha|50x50](Documentation/Images/PR-CI-CD.png)
 
 ## Double Linked List 
 
 > 1. Topic-1
-> 1. Topic-2
+> 2. Topic-2
 
-## JDBC with MYSQL CRUD Operations
+## MYSQL Work Bench
 > 1. Topic-1
-> 1. Topic-2
+> 2. Topic-2
+
+## JDBC Operations
+
+> 1. Topic-1
+> 2. Topic-2
 

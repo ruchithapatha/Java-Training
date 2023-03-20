@@ -14,9 +14,14 @@
 
 ## Pull Requets process, Continues Integration and Continues Delivery
 
+**References:**
+> 1. https://learn.microsoft.com/en-us/azure/devops/repos/git/about-pull-requests?view=azure-devops
+> 2. https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/devops-dotnet-baseline
 
 
-![Ruchitha Patha|50x50](Documentation/Images/PR-CI-CD.png)
+![Sql Azure|50x50](Documentation/Images/PR-CI-CD2.png)
+
+![Sql Azure|50x50](Documentation/Images/Azure2.png)
 
 ## Double Linked List 
 

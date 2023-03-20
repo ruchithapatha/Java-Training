@@ -2,7 +2,7 @@
 
 ## Date Time:  5:54 pm Saturday, 18 March 2023 (IST)
 
-![Ruchitha Patha|150x150](Documentation/Images/Ruchitha_4_400x400.jpg)
+![Ruchitha Patha|150x150](Documentation/Images/Ruchitha1.png)
 
 ## Java Training acquired
 

@@ -2,8 +2,6 @@
 
 ## Date Time:  11:30 am Tuesday, 21 March 2023 (IST)
 
-![Ruchitha Patha|150x150](Documentation/Images/ruchilatest1.png)
-
 ## Java Training acquired
 
 > 1. JAVA SWING: Subtle understanding of Swing components and functionalities and their role in creating customized and complex applications. Worked on basic applications such as Calculator, Basic sEmployee Management System etc., the inclusion of JDBC and OOPS concepts that makes it more custom-oriented and user interactive.
